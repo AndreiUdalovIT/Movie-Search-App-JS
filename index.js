@@ -3,7 +3,7 @@ const btn = document.getElementById('input__btn');
 const listMovies = document.getElementById('movies');
 const movieInfo = document.getElementById('movie-info');
 
-const baseURL = 'http://www.omdbapi.com/?apikey=76f371c1&';
+const baseURL = 'https://www.omdbapi.com/?apikey=76f371c1&';
 const search = 's=';
 const searchID = 'i=';
 
